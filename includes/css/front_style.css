@@ -1,0 +1,51 @@
+.cf7wpay_body {
+    display: table;
+}
+.cf7wpay_row {
+    display: table-row;
+}
+.cf7wpay_details_input {
+    min-width: 250px;
+    max-width: 300px;
+    display: table-cell;
+    vertical-align: top;
+    padding: 5px;
+}
+#cf7wpay_stripe_credit_card_number,#cf7wpay_stripe_credit_card_csv,#cf7wpay_stripe_credit_card_expiration,#cf7wpay_stripe_credit_card_zip {
+    background: #fbf4f4;
+    border: 1px solid #dcdcdc;
+    padding: .80em;
+    border-radius: 2px;
+}
+#card-errors {
+    color: #eb1c26;
+}
+.cf7wpay_stripe .invalid {
+    border-color: #fa755a !important;
+}
+.cf7wpay_sandbox {
+    background-color: #80cf4e;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    height: 25px;
+    line-height: 25px;
+    padding: 8px;
+}
+.cf7wpay_npymthd {
+    color: red;
+}
+
+@media only screen and (max-width: 767px) {
+    .cf7wpay_body {
+        display: block;
+    }
+    .cf7wpay_row {
+        display: block;
+    }
+    .cf7wpay_details_input {
+        display: block;
+    }
+}
