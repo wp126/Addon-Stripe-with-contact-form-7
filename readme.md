@@ -1,22 +1,13 @@
-=== Addon Stripe with contact form 7 ===
-Tags: stripe with contact form 7, contact form 7 stripe, stripe
-Requires at least: 5.5
-Tested up to: 6.0
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1> Addon Stripe with contact form 7 </h1>
 
 
-== Description ==
-
-
-**Stripe with contact form 7**  this plugin allow stripe payment gatway integrate with contcatform 7
+<strong>Stripe with contact form 7</strong>  this plugin allow stripe payment gatway integrate with contcatform 7
 
 
 *🌟 [Documentation](https://www.plugin999.com/docs/stripe-with-contact-form-7/)* | *🌟 [Demo](https://plugin999.com/demo/paypal-stripe/stripe-with-contact-form-7/)*
 
 
-== WITH THE Stripe with contact form 7 PLUGIN YOU CAN: ==
+<h3> WITH THE Stripe with contact form 7 PLUGIN YOU CAN: </h3>
 
 * Easy to use
 * Enable Use Stripe.
@@ -29,12 +20,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 * WPML Support
 
 
-== CONTRIBUTE AND TRANSLATE ==
-
-Stripe with contact form 7 is translated into multiple languages Chinese, Dutch, Russian, Spanish, and many more. Help localize Stripe with contact form 7 even further by adding your locale Language. [Click Here](https://translate.wordpress.org/projects/wp-plugins/store-opening-hour-for-woocommerce/)
-
-
-== Screenshots ==
-1. Stripe Settings
-2. Stripe Entries
-3. Show Stripe with contact form 7 
+<img src="https://ps.w.org/addon-stripe-with-contact-form-7/assets/screenshot-1.png?rev=2782647"/>
+<img src="https://ps.w.org/addon-stripe-with-contact-form-7/assets/screenshot-2.png?rev=2782647"/>
+<img src="https://ps.w.org/addon-stripe-with-contact-form-7/assets/screenshot-3.png?rev=2782647"/>
+<img src="https://ps.w.org/addon-stripe-with-contact-form-7/assets/screenshot-4.png?rev=2782647"/>
