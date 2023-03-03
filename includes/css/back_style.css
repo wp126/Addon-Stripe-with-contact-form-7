@@ -1,0 +1,171 @@
+table.cf7wpay_paypal_main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+img.ocaddpapla_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+table.cf7wpay_paypal_main tbody {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+table.cf7wpay_paypal_main tr {
+    margin: 20px 0px;
+    display: block;
+}
+table.cf7wpay_paypal_main tr th {
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+}
+table.cf7wpay_paypal_main tr td {
+    width: 40%;
+    display: inline-block;
+}
+table.cf7wpay_paypal_main input {
+    border: 1px solid #a5a2a2;
+}
+.cf7wpay_trandetais td {
+    width: 150px;
+}
+.custom_product {
+    margin: 20px;
+}
+span.cfppl7notice {
+    width: 100%;
+    display: inline-block;
+}
+
+
+a.btn.btn-success.add-more {
+    padding: 4px 8px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border: 1px solid #0071a1;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0071a1;
+    background: #f3f5f6;
+    cursor: pointer;
+}
+a.btn.btn-danger.remove {
+    padding: 4px 8px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border: 1px solid #ea0b0b;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #ea0b0b;
+    background: #f3f5f6;
+    cursor: pointer;
+}
+a.stripe_addcolumn img, a.stripe_addrow img {
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+    cursor: pointer;
+}
+a.deletecolumn img, a.deleterow img {
+    width: 20px;
+    height: auto;
+    cursor: pointer;
+}
+
+
+
+
+/*CSS for support rating donation start*/
+.cf7wpay_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.cf7wpay_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.cf7wpay_rateus_notice, .cf7wpay_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+}
+.cf7wpay_rateus_notice h3, .cf7wpay_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.cf7wpay_rateus_notice label, .cf7wpay_support_notice label {
+    font-size: 16px;
+}
+.cf7wpay_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.cf7wpay_rateus_notice a, .cf7wpay_support_notice a {
+    color: #fff;
+}
+.cf7wpay_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.cf7wpay_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.cf7wpay_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.cf7wpay_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.cf7wpay_donate_main img {
+    height: 32px;
+}
+.cf7wpay_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.cf7wpay_donate_main h3 {
+    font-size: 15px;
+}
+.cf7wpay_donate_form {
+    display: flex;
+}
+.cf7wpay_donate_main .button {
+    text-align: center;
+}
+/*CSS for support rating donation end*/
+
+
+@media only screen and (max-width: 767px) {
+    .ocscw_rtusnoti_left {
+        width: 80%;
+    }
+}
